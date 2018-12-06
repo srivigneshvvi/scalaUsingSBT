@@ -11,6 +11,8 @@ object Print {
    val inputFile = args(0)
     println("inputFIle is   "+inputFile)
     println("SIVA CHECKING");
+
+
   //  val outputFile = args(1)
    //val linecount = Source.fromFile("README.md").getLines.size
   //val fileSrc = scala.io.Source.fromFile(args(0))
